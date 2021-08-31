@@ -1,0 +1,8 @@
+# python requirements
+torch
+numpy
+torchvision
+pyquaternion
+transforms3d
+vispy
+tqdm
