@@ -2,7 +2,7 @@
 
 IEEE Trans Vis Comput Graph. 2022 Dec.
 
-* Mathias Parger, Chengcheng Tang, Yuanlu Xu, Christopher D Twigg, Lingling Tao, Yijing Li, Robert Wang, Markus Steinberger*
+*Mathias Parger, Chengcheng Tang, Yuanlu Xu, Christopher D Twigg, Lingling Tao, Yijing Li, Robert Wang, Markus Steinberger*
 
 <p float="left">
 <img src="./images/1.png" width="10%"/>
