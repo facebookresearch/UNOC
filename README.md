@@ -11,6 +11,10 @@
 <img src="./images/9.png" width="10%"/>
 <p>
 
+### Abstract
+
+Tracking body and hand motions in 3D space is essential for social and self-presence in augmented and virtual environments. Unlike the popular 3D pose estimation setting, the problem is often formulated as egocentric tracking based on embodied perception (e.g., egocentric cameras, handheld sensors). In this article, we propose a new data-driven framework for egocentric body tracking, targeting challenges of omnipresent occlusions in optimization-based methods (e.g., inverse kinematics solvers). We first collect a large-scale motion capture dataset with both body and finger motions using optical markers and inertial sensors. This dataset focuses on social scenarios and captures ground truth poses under self-occlusions and body-hand interactions. We then simulate the occlusion patterns in head-mounted camera views on the captured ground truth using a ray casting algorithm and learn a deep neural network to infer the occluded body parts. Our experiments show that our method is able to generate high-fidelity embodied poses by applying the proposed method to the task of real-time egocentric body tracking, finger motion synthesis, and 3-point inverse kinematics.
+
 ### Usage
 
 Please download the [UNOC dataset](https://cloud.tugraz.at/index.php/s/ykqxA7HxYMnwbXr) and extract the BVH files.
