@@ -1,4 +1,4 @@
-## UNOC
+## UNOC: Understanding Occlusion for Embodied Presence in Virtual Reality
 <p float="left">
 <img src="./images/1.png" width="10%"/>
 <img src="./images/2.png" width="10%"/>
